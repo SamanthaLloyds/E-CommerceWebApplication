@@ -1,6 +1,6 @@
 # Final-Project
 
-This is an Ecommerce web application for fairfield Universty. 
+This is an Ecommerce web application for fairfield Universty. It was built as a Final Project for the Advanced Programming in Java class at Fairfield University.
 The application is built on a java-spring boot backend and angular frontend.
 
 ## GOAL
